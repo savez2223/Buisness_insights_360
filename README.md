@@ -4,8 +4,6 @@
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-[Live Report Link]([https://www.novypro.com/project/atliq-hardware-business-insights-360](https://app.powerbi.com/view?r=eyJrIjoiZDE5MTU3ZjYtZTZiMC00NjM0LWFiZWMtY2Y5NTlhYjNjZDQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
-
 ## Tech stacks
 
 - SQL
@@ -201,7 +199,7 @@ In Home view, all the views button will be available. User will land on specific
 ![Executive.gif](https://github.com/user-attachments/assets/52085026-f9e3-4449-be07-2740f7dc253b)
 
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+you can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiNjNlMGE3MTMtNDVjYS00ZTlkLTkxYjItMjZmZWRlYTQ0NWQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=3aeb45a53d4160d33eb1)
 
 
 ## Project Outcome
